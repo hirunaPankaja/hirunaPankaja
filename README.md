@@ -79,7 +79,7 @@
 </td>
     <td>
   
-## 📄📜 Stats
+## 📄📜 Status
 
 
 <p align="center">
